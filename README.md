@@ -48,6 +48,7 @@ The test suite validates:
 
 ## Project Structure
 
+```text
 itpm-assignment1-tamil/
 ├── tests/
 │   └── translator.spec.js
