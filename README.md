@@ -48,15 +48,15 @@ The test suite validates:
 
 ## Project Structure
 
-```text
-itpm-assignment1-tamil/
-├── tests/
-│   └── translator.spec.js
-├── package.json
-├── package-lock.json
-├── README.md
-├── .gitignore
-└── GitHub_Repository_Link.txt
+   ```text
+   itpm-assignment1-tamil/
+   ├── tests/
+   │   └── translator.spec.js
+   ├── package.json
+   ├── package-lock.json
+   ├── README.md
+   ├── .gitignore
+   └── GitHub_Repository_Link.txt
 
 
 ## GitHub Repository
