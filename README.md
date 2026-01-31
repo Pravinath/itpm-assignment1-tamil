@@ -47,15 +47,16 @@ The test suite validates:
    ```npx playwright show-report```
 
 ## Project Structure
-   itpm-assignment1-tamil/
-   │
-   ├── tests/
-   │ └── translator.spec.js
-   ├── package.json
-   ├── package-lock.json
-   ├── README.md
-   ├── .gitignore
-   └── GitHub_Repository_Link.txt
+
+itpm-assignment1-tamil/
+├── tests/
+│   └── translator.spec.js
+├── package.json
+├── package-lock.json
+├── README.md
+├── .gitignore
+└── GitHub_Repository_Link.txt
+
 
 ## GitHub Repository
 https://github.com/Pravinath/itpm-assignment1-tamil
